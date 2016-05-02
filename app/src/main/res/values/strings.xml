@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping Calculator</string>
+
+    <string name="product_name">Product Name</string>
+
+    <string name="base_price">Base Price</string>
+
+    <string name="units">Unit Type</string>
+
+    <string name="num_units">Number of Units</string>
+
+    <string name="percent_off">Percent Off Discount</string>
+
+    <string name="calculate">Calculate</string>
+</resources>
